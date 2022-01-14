@@ -1,4 +1,4 @@
-# fb-octo-auto-check
+# octo-auto-check
 
 Что нужно для работы:
 1. Python 3.9+
@@ -7,9 +7,9 @@
 Пошаговый алгоритм (делается только 1 раз, не пугайтесь):
 1. Устанавливаем Python 3.9+ с официального сайта
 2. Устанавливаем PyCharm
-3. Скачиваем и распаковываем архив с fb-octo-auto-check в папку PycharmProjects
-4. Должен получится примерно такой путь: /Users/mac/PycharmProjects/fb-octo-auto-check/
-5. Создаем внутри папки /fb-octo-auto-check/ новую папку с названием 1
+3. Скачиваем и распаковываем архив с octo-auto-check в папку PycharmProjects
+4. Должен получится примерно такой путь: /Users/mac/PycharmProjects/octo-auto-check/
+5. Создаем внутри папки /octo-auto-check/ новую папку с названием 1
 6. Вбиваем в гугл "chromedriver chrome version 96", скачиваем chromedriver, и загружаем его в папку 1
 7. Открываем проект в PyCharm
 8. Импортируем все библиотеки, которые указаны вверху main.py.
