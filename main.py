@@ -109,7 +109,7 @@ print(octo_id)
 
 while len(octo_id) > 0:
     PROFILE_ID = octo_id.pop(0)
-    CHROME_DRIVER = '/Users/mac/PycharmProjects/fb-octo-auto-check/1/chromedriver'
+    CHROME_DRIVER = '/Users/mac/PycharmProjects/octo-auto-check/1/chromedriver'
     LOCAL_API = 'http://localhost:58888/api/profiles'
 
 
